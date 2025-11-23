@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoWillmann
 - 👀 I’m interested in designing and coding projects.
-- 🌱 I’m currently learning at the University of Groningen (rug)
+- 🌱 I graduated from the University of Groningen (rug)
 
 
 <!---
